@@ -1,11 +1,8 @@
-/**
- * 
- */
 package coffee.shop;
 
 /**
- * @author Madis
- *
+ * 
+ * @author Madison
  */
 public class Inventory {
 
